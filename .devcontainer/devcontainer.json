@@ -1,4 +1,4 @@
-{
+i{
   "name": "CPython Dev Container",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "postCreateCommand": "./.devcontainer/setup.sh",
